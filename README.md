@@ -2,7 +2,7 @@
 
 ![What it will look like](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-iXw-QpO0fBwXOPIRxK-ahSCOVpmnRea0Okr2H_ZhA&s=10)
 
-![Title screen] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJc3MunOhWpK8jnSLr1bnVszSIGY5uYGjvSvo6R_YIg&s=10)
+![Title screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJc3MunOhWpK8jnSLr1bnVszSIGY5uYGjvSvo6R_YIg&s=10)
 
 Flappy bird with multiple playable characters, whichever character flies the longest wins!
 
