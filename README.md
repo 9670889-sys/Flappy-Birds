@@ -9,7 +9,7 @@ One key input is clicking or pressing the up button which will result in jumping
 
 The smallest working version would be a compeletly functioning flappy bird, when they die, the icon changes, the score is recorded, and the next player plays at the bare minimum.
 
-We need to research the different classes
+We need to research the different classes and how to program gravity
 
 
 
