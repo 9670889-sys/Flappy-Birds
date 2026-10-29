@@ -1,4 +1,4 @@
-# Flappy-Birds
+# Pipes-and-Wings
 
 ![What it will look like](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-iXw-QpO0fBwXOPIRxK-ahSCOVpmnRea0Okr2H_ZhA&s=10)
 
