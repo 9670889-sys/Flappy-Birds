@@ -32,7 +32,9 @@ We need to research the different classes, how to program gravity, and how to im
 ![GUI Mockup 2](https://github.com/9670889-sys/Flappy-Birds/blob/main/images/Customization-Mockup.jpg)
 ![GUI Mockup 3](https://github.com/9670889-sys/Flappy-Birds/blob/main/images/Gameplay-Mockup.jpg)
 
+# Timeline we hope to follow
 
+![Timeline]()
 
 
 
