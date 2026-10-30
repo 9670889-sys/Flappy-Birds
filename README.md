@@ -17,6 +17,10 @@ To be considered a success, we would have to have a working version would be a f
 
 We need to research the different classes, how to program gravity, and how to implement delta time.
 
+![GUI Mockup 1](https://github.com/9670889-sys/Flappy-Birds/blob/main/images/Start-Mockup.jpg)
+![GUI Mockup 2](https://github.com/9670889-sys/Flappy-Birds/blob/main/images/Customization-Mockup.jpg)
+
+
 
 
 
